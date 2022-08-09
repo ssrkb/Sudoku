@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1618501958 source:d:\documents\dsa-2 lab assignments\dsa2_project\sudoku.c
+	<stdio.h>
+	<time.h>
+
+1618502135 source:d:\documents\dsa-2 lab assignments\dsa2_project\main.cpp
+	<graphics.h>
+	<conio.h>
+	<stdio.h>
+	"sudoku.c"
+
+1618501958 d:\documents\dsa-2 lab assignments\dsa2_project\sudoku.c
+	<stdio.h>
+	<time.h>
+
